@@ -1,8 +1,7 @@
 # 脳外科講座プロジェクト
 
 ## 環境設定
-mambaのインストール  
-[mamba](https://github.com/conda-forge/miniforge)
+[mamba](https://github.com/conda-forge/miniforge)のインストール
 ```
 # mambaのダウンロード
 cd ~/Download
