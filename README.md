@@ -18,3 +18,8 @@ mamba create -n neuro python=3.10
 mamba activate neuro
 ```
 
+## パッケージのインストール
+```
+mamba install pandas matplotlib jupyter nbclassic
+mamba install conda-forge::neurokit2
+```
